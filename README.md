@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=2insung%20README&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=2bfafa&height=150&section=header&text=2insung%20README&fontSize=50)
 
 <!--
 **2insung/2insung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
