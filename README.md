@@ -6,6 +6,7 @@
 <br>
 <br>
 <div align="center" ><span> 📎 Link 📎 </span></div>
+<br>
 <div align="center">
   
   [![Notion](https://img.shields.io/badge/Portfolio-eeeeee?style=for-the-badge&logo=notion&logoColor=black)](https://quartz-cough-230.notion.site/Lee-In-Sung-9b70b4b8802a499fa4373ddab2474411)
@@ -14,6 +15,7 @@
 <div align="center">leeinsung12@gmail.com</div>
 <br>
 <div align="center"><span> 💻 Stacks 💻</span></div>
+<br>
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
