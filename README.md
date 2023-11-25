@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=78a2e1&height=100&section=header&text=2insung%20README&fontSize=45&fontColor=ffffff)
 <!--
 **2insung/2insung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeinsung12)](https://solved.ac/leeinsung12/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2insung&layout=compact)](https://github.com/2insung/github-readme-stats)
 
 Here are some ideas to get you started:
 
