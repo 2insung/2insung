@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=78a2e1&height=100&section=header&text=2insung%20README&fontSize=45&fontColor=ffffff)
 <br>
-<div align="center" >
-  
-![image](https://github.com/2insung/2insung/assets/84179188/d124b5d9-76ed-4f3c-90c9-3a6123dd3b9d)</div>
-<br>
 <br>
 <div align="center" ><span> ✋ Intro ✋ </span></div>
 <div align="center"><span>안녕하세요. 이인성입니다.<br>웹 백엔드 개발에 많은 관심이 있습니다.<br>현재 경북대학교 컴퓨터학부에 재학 중입니다.</span></div>
