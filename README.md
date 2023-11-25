@@ -3,5 +3,9 @@
 <br>
 <br>
 <div align="center" style="font-size:50%">Link</div>
-<img src="https://img.shields.io/badge/Portfolio-#000000?style=flat-square&logo=Notion&logoColor=white"/>
-
+<br>
+<div align="center" style="font-size:50%">
+  
+  [![Notion](https://img.shields.io/badge/Portfolio-eeeeee?style=for-the-badge&logo=notion&logoColor=black)](https://quartz-cough-230.notion.site/Lee-In-Sung-9b70b4b8802a499fa4373ddab2474411)
+  
+</div>
