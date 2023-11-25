@@ -2,7 +2,7 @@
 <div align="center"><span style="font-size:50%">안녕하세요. 이인성입니다.<br>웹 백엔드에 많은 관심이 있습니다.<br>현재 경북대학교 컴퓨터학부에 재학 중입니다.</span></div>
 <br>
 <br>
-<div align="center" style="font-size:50%">Link</div>
+<div align="center" >Link</div>
 <br>
 <div align="center" style="font-size:50%">
   
