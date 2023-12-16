@@ -7,10 +7,10 @@
 <br>
 <div align="center" ><span> 📎 Link 📎 </span></div>
 <br>
-<div align="center">
+<!-- <div align="center">
   
   [![Notion](https://img.shields.io/badge/Portfolio-eeeeee?style=for-the-badge&logo=notion&logoColor=black)](https://quartz-cough-230.notion.site/Lee-In-Sung-9b70b4b8802a499fa4373ddab2474411)
-</div>
+</div> -->
 <div align="center"><span> 📬 Email 📬</span></div>
 <div align="center">leeinsung12@gmail.com</div>
 <br>
